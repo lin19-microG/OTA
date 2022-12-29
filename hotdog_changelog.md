@@ -1,4 +1,9 @@
 
+29-12-2022 - 1st 'official' build
+
+- Port of GrapheneOS' 'Scoped storage' feature
+
+
 27-12-2022 - INITIAL BUILD (Beta)
 
 - Pre-installed microG 0.2.26.223616-2

@@ -1,3 +1,11 @@
+06-01-2023
+
+- ASB Security string 2023-01-05
+- microG on 0.2.26.223616-16
+- Firewall UI (Settings - Network & Internet - Manage data restrictions)
+- Some kernel patches
+- French translation for ported features
+
 
 29-12-2022 - 1st 'official' build
 

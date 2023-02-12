@@ -1,3 +1,12 @@
+12-02-2023
+
+- ASB Security string 2023-02-05
+- microG on 0.2.27.223616-3
+- Firewall UI moved to Privacy Dashboard
+- Some kernel patches
+- Spoof apps installed by G*PlayStore
+
+
 06-01-2023
 
 - ASB Security string 2023-01-05

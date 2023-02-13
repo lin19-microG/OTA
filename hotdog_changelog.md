@@ -10,6 +10,7 @@
 06-01-2023
 
 - ASB Security string 2023-01-05
+- Bromite Browser and Webview updated to 108.0.5359.156
 - microG on 0.2.26.223616-16
 - Firewall UI (Settings - Network & Internet - Manage data restrictions)
 - Some kernel patches

@@ -1,3 +1,11 @@
+19-03-2023
+
+- ASB Security string 2023-03-05
+- Some kernel patches
+- Vendor blobs and sec. patch updated from HD1913_11.F.20
+- Bromite Webview replaced by Mulch Webview 111.0.5563.58
+
+
 12-02-2023
 
 - ASB Security string 2023-02-05

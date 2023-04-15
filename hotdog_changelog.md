@@ -1,3 +1,12 @@
+
+13-04-2023
+
+- ASB Security string 2023-04-05
+- Some kernel patches
+- Removed Bromite browser and shipped LineageOS' Jelly instead
+- Mulch Webview 112.0.5615.48
+
+
 19-03-2023
 
 - ASB Security string 2023-03-05

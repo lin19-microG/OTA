@@ -1,8 +1,17 @@
+09-08-2023
+
+- ASB Security string 2023-08-09
+- Some kernel patches
+- Mulch Webview 115.0.5790.166-1
+- Icon shape "circle" fallback
+
+
 08-07-2023
 
 - ASB Security string 2023-07-05
 - Some kernel patches
 - Mulch Webview 114.0.5735.196
+- microG 0.2.28.231657 "original"
 
 
 08-06-2023
